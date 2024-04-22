@@ -1,0 +1,55 @@
+{
+    "name": "Zulu Mainnet Token List",
+    "timestamp": "2024-03-16",
+    "keywords": [
+      "null"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/dmode.png",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tokens": [
+      {
+        "chainId": 90104,
+        "name": "Zulu Bitcoin",
+        "address": "0x11ea382E04d54B73610e7A96f259303e385C5e8a",
+        "decimals": 18,
+        "symbol": "ZBTC",
+        "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/dmode.png"
+      },
+      {
+        "chainId": 90104,
+        "name": "Wrapped Zulu",
+        "address": "0x99524fB65a6F14Bd41D21f1DC328f67615281EAe",
+        "decimals": 18,
+        "symbol": "WZULU",
+        "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/weth.png"
+      },
+      {
+        "chainId": 90104,
+        "name": "Sathosi",
+        "address": "0x400F2D07FB6D910Db8494d68EB792E4757D11337",
+        "decimals": 18,
+        "symbol": "SATS",
+        "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/usdt.png"
+      },
+      {
+        "chainId": 90104,
+        "name": "Ordinal",
+        "address": "0x3AbC143b36e0F3451efF5b98F91E2ECC803103E3",
+        "decimals": 18,
+        "symbol": "ORDI",
+        "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/usdc.png"
+      },
+      {
+        "chainId": 90104,
+        "name": "Rats",
+        "address": "0x6D0f4478a2545dBC262BbF55E7fC0E917046542C",
+        "decimals": 18,
+        "symbol": "RATS",
+        "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/dai.png"
+      }
+    ]
+  }
