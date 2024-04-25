@@ -1,0 +1,39 @@
+{
+  "name": "Zulu Testnet Token List",
+  "timestamp": "2024-03-16T12:30:45.678Z",
+  "keywords": [
+    "null"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/zuluswap/logo/main/logo/zuluswap.png",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 90104,
+      "name": "Wrapped Zulu",
+      "address": "0x99524fB65a6F14Bd41D21f1DC328f67615281EAe",
+      "decimals": 18,
+      "symbol": "WZULU",
+      "logoURI": "https://raw.githubusercontent.com/zuluswap/logo/main/logo/wzulu.png"
+    },
+    {
+      "chainId": 90104,
+      "name": "Zulu Bitcoin",
+      "address": "0x11ea382E04d54B73610e7A96f259303e385C5e8a",
+      "decimals": 18,
+      "symbol": "zBTC",
+      "logoURI": "https://raw.githubusercontent.com/zuluswap/logo/main/logo/bitcoin.png"
+    },
+    {
+      "chainId": 90104,
+      "name": "Satoshi",
+      "address": "0x400F2D07FB6D910Db8494d68EB792E4757D11337",
+      "decimals": 18,
+      "symbol": "SATS",
+      "logoURI": "https://raw.githubusercontent.com/zuluswap/logo/main/logo/sats.png"
+    }
+  ]
+}
